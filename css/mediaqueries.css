@@ -1,4 +1,4 @@
-@media only screen and (min-width:560px) and (max-width:800px)
+@media only screen and (min-width:567px) and (max-width:980px)
 {
 	.logo{
 	margin-top: 1.7%;
@@ -127,7 +127,7 @@
 	min-width: 400px;
 	display: block;
 	float: right;
-	margin: 10px 10px 0px 10px;
+	margin: 10px 0px 0px 10px;
 	column-count: 3;
 	column-gap: 1%;
 }
@@ -175,7 +175,7 @@
 }
 .table{
 	width:100%;
-	max-width: 725px;
+	max-width: 720px;
 	display: block;
 	margin: 0px 0px 10px 5px;
 	float:left;
@@ -190,11 +190,11 @@
 .table th{
 	font-size: 12px;
 	min-width: 50px;
-	padding: 8px;
+	padding: 7px;
 }
 .table td{
 	font-size: 12px;
-	padding: 8px;
+	padding: 7px;
 }
 .bottom_line p{
 	font-size: 12px;
@@ -250,7 +250,7 @@
 }
 
 }
-@media only screen and (min-width:320px) and (max-width:559px)
+@media only screen and (min-width:320px) and (max-width:566px)
 {
 	.logo{
 	margin-top: 1%;
@@ -407,6 +407,7 @@ nav li {
 }
 .imglist{
 	width:100%;
+	max-width: 310px;
 	display: block;
 	float: left;
 	margin: 0px 0px 0px 10px;
@@ -421,9 +422,10 @@ nav li {
 }
 .lists{
 	width:100%;
+	max-width: 310px;
 	display: block;
 	float: left;
-	margin: 10px 10px 0px 10px;
+	margin: 10px 0px 0px 10px;
 	column-count: 2;
 	column-gap: 1%;
 }
@@ -450,9 +452,10 @@ nav li {
 .headline{
 	display: block;
 	width: 100%;
-	max-width: 315px;
+	max-width: 310px;
 	margin: 0px 0px 10px 10px;
 	float:left;
+	padding-right: 5px;
 }
 .headline p{
 	font-size: 10px;
@@ -467,7 +470,7 @@ nav li {
 }
 .table{
 	width:100%;
-	max-width: 280px;
+	max-width: 310px;
 	display: block;
 	margin: 0px 0px 8px 5px;
 	float:left;
@@ -483,11 +486,11 @@ nav li {
 .table th{
 	font-size: 10px;
 	min-width: 16px;
-	padding: 5px;
+	padding: 4px;
 }
 .table td{
 	font-size: 10px;
-	padding: 5px;
+	padding: 4px;
 }
 .table .nums{
 	padding-left: 7px;

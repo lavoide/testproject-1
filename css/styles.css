@@ -28,7 +28,7 @@
 	clear: both;
 }
 body{
-	min-width: 321px;
+	min-width: 320px;
 	font-family: "ArialRegular";
 }
 h1,h2,h3,h4,h5{
@@ -184,7 +184,7 @@ nav li a:link,nav li a:visited{
 	font-size: 11px;
 }
 .content{
- 	background-color:white;
+ 	background-color: white;
 	width: 980px;
 	margin: 0 auto;
 }
